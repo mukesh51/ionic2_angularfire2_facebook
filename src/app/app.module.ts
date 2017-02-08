@@ -7,10 +7,10 @@ import { AngularFireModule } from 'angularfire2';
 import { AuthService } from '../providers/auth-service';
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyBuKpB_Giclwxl1BknyZjOrk7nfIgI44QI",
-  authDomain: "flickering-heat-8853.firebaseapp.com",
-  databaseURL: "https://flickering-heat-8853.firebaseio.com",
-  storageBucket: "flickering-heat-8853.appspot.com",
+  apiKey: "xxxx",
+  authDomain: "xxxx",
+  databaseURL: "xxxx",
+  storageBucket: "xxxx",
 };
 
 @NgModule({
